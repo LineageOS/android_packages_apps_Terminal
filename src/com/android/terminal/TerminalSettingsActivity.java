@@ -23,7 +23,6 @@ import android.preference.PreferenceActivity;
 import android.preference.PreferenceScreen;
 import android.preference.SwitchPreference;
 import android.util.Log;
-import android.view.Menu;
 import android.view.MenuItem;
 
 import static com.android.terminal.Terminal.TAG;
@@ -52,10 +51,17 @@ public class TerminalSettingsActivity extends PreferenceActivity {
         mScreenOrientationPref = (ListPreference) findPreference(KEY_SCREEN_ORIENTATION);
         mFontSizePref = (ListPreference) findPreference(KEY_FONT_SIZE);
         mTextColorsPref = (ListPreference) findPreference(KEY_TEXT_COLORS);
+
+        getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }
