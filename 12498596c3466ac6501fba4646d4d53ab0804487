@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_511d5972",
+        "filename": "src/com/android/terminal/TerminalView.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-07T08:51:51Z",
+      "side": 1,
+      "message": "If your purpose here is to switch from \"black over white\" to \"write over black\", then you have to also switch on val (one line above). \n\nIf your purpose is to have the \u0027new black\u0027 and the \u0027new white\u0027 instead of the old ones, (#fafafa instead of #fffffff, #212121 instead of #000000), then you have to get rid of the val code (as fg and bg are overridden below).",
+      "revId": "12498596c3466ac6501fba4646d4d53ab0804487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
