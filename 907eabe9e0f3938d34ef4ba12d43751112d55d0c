@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ff52f3f_7f788ff7",
+        "filename": "src/com/android/terminal/TerminalLineView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2015-06-28T04:15:19Z",
+      "side": 1,
+      "message": "could put this in a static block for array initialization.",
+      "revId": "907eabe9e0f3938d34ef4ba12d43751112d55d0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
