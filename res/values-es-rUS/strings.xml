@@ -19,7 +19,7 @@
   <string name="app_label">Terminal</string>
   <string name="menu_new_tab">Nueva pestaña</string>
   <string name="menu_close_tab">Cerrar pestaña</string>
-  <string name="menu_item_settings">Opciones</string>
+  <string name="menu_item_settings">Ajustes</string>
   <string name="screen_settings">Ajustes de pantalla</string>
   <string name="fullscreen_mode_title">Pantalla completa</string>
   <string name="screen_orientation_title">Orientación de la pantalla</string>
