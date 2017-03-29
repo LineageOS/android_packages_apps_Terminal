@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources>
+  <string-array name="screen_orientation_labels">
+    <item>Automática</item>
+    <item>Paisaxe</item>
+    <item>Retratu</item>
+  </string-array>
   <string-array name="font_size_labels">
     <item>10 pt</item>
     <item>12 pt</item>
@@ -23,5 +28,13 @@
     <item>16 pt</item>
     <item>20 pt</item>
     <item>24 pt</item>
+  </string-array>
+  <string-array name="text_colors_labels">
+    <item>Testu prietu sobre fondu blancu</item>
+    <item>White text on black</item>
+    <item>Green text on black</item>
+    <item>Amber text on black</item>
+    <item>Red text on black</item>
+    <item>Blue text on black</item>
   </string-array>
 </resources>
