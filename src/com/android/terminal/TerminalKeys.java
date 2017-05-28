@@ -158,7 +158,14 @@ public class TerminalKeys {
     }
 
     public int getCharacter(KeyEvent event) {
-        int c = event.getUnicodeChar();
+        int c;
+
+        if (event.isShiftPressed()) {
+            c = event.getUnicodeChar(KeyEvent.META_SHIFT_LEFT_ON | KeyEvent.META_SHIFT_ON);
+        } else {
+            c = event.getUnicodeChar(0);
+        }
+
         // TODO: Actually support dead keys
         if ((c & KeyCharacterMap.COMBINING_ACCENT) != 0) {
             Log.w(TAG, "Received dead key, ignoring");
