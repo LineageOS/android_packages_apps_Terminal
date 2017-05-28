@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_0296df94",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-05-28T07:19:12Z",
+      "side": 1,
+      "message": "You might want to make the title a bit more descriptive of what\u0027s being fixed, like\nTerminal: Fix modifier keys",
+      "revId": "d18b4ad57531665e0b010f8cb982dfbaeb53958e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_6281eb49",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-05-28T07:19:12Z",
+      "side": 1,
+      "message": "This kind of thing isn\u0027t necessary in a commit message",
+      "revId": "d18b4ad57531665e0b010f8cb982dfbaeb53958e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
