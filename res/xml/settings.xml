@@ -18,6 +18,11 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:title="@string/menu_item_settings">
+    <SwitchPreference
+        android:key="volumekey_mode"
+        android:title="@string/volumekey_title"
+        android:summary="@string/volumekey_summary"
+        android:defaultValue="false" />
     <PreferenceCategory
         android:title="@string/screen_settings">
         <SwitchPreference
