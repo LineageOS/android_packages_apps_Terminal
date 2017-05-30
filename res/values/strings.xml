@@ -31,4 +31,6 @@
     <string name="font_size_title">Font size</string>
     <string name="text_colors_title">Text colors</string>
 
+    <string name="volumekey_title">Volume keys as input</string>
+    <string name="volumekey_summary">Volume Up/Down keys will input Up/Down keys</string>
 </resources>
