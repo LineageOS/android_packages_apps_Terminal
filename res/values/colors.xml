@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2015 The CyanogenMod Project
+     Copyright (C) 2015 The LineageOS Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -15,6 +16,8 @@
 <resources>
     <!-- Material -->
     <color name="primary">#212121</color>
-    <color name="primary_dark">#424242</color>
-    <color name="accent">#fafafa</color>
+    <color name="primary_dark">#0c0c0c</color>
+    <color name="accent">#009688</color>
+
+    <color name="white">#ffffff</color>
 </resources>
