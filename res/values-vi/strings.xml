@@ -26,4 +26,6 @@
   <string name="text_settings">Cài đặt văn bản</string>
   <string name="font_size_title">Cỡ phông chữ</string>
   <string name="text_colors_title">Màu chữ</string>
+  <string name="volumekey_title">Phím âm lượng như đầu vào</string>
+  <string name="volumekey_summary">Các phím Tăng/Giảm âm lượng sẽ nhập các phím Lên/Xuống</string>
 </resources>

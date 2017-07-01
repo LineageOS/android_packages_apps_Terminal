@@ -26,4 +26,6 @@
   <string name="text_settings">Nastavitve besedila</string>
   <string name="font_size_title">Velikost pisave</string>
   <string name="text_colors_title">Barve besedila</string>
+  <string name="volumekey_title">Gumba za glasnost kot vnos</string>
+  <string name="volumekey_summary">Gumba za glasnost gor/dol bosta uporabljena kot gumba gor/dol</string>
 </resources>

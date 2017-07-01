@@ -26,4 +26,6 @@
   <string name="text_settings">Testu ezarpenak</string>
   <string name="font_size_title">Letra-tamaina</string>
   <string name="text_colors_title">Testu koloreak</string>
+  <string name="volumekey_title">Bolumen-teklak sarrera gisa</string>
+  <string name="volumekey_summary">Bolumena gora eta behera teklek gora eta behera tekla gisa erabiliko dira</string>
 </resources>

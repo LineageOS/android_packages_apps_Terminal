@@ -26,4 +26,6 @@
   <string name="text_settings">テキストの設定</string>
   <string name="font_size_title">フォントサイズ</string>
   <string name="text_colors_title">テキストの色</string>
+  <string name="volumekey_title">音量キーで入力</string>
+  <string name="volumekey_summary">音量上下キーで上下キーとして入力できるようにします</string>
 </resources>

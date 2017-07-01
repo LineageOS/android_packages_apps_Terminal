@@ -26,4 +26,6 @@
   <string name="text_settings">Impostazioni testo</string>
   <string name="font_size_title">Dimensione del carattere</string>
   <string name="text_colors_title">Colori del testo</string>
+  <string name="volumekey_title">Tasti del volume come input</string>
+  <string name="volumekey_summary">I tasti volume su/giù immeteranno keycode dei tasti su/giù</string>
 </resources>

@@ -26,4 +26,6 @@
   <string name="text_settings">הגדרות טקסט</string>
   <string name="font_size_title">גודל גופן</string>
   <string name="text_colors_title">צבעי טקסט</string>
+  <string name="volumekey_title">מקשי עוצמת הקול כקלט</string>
+  <string name="volumekey_summary">מקשי הגברת/הנמכת עוצמת הקול יקלטו כמקשי למעלה/למטה רגילים</string>
 </resources>

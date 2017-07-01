@@ -26,4 +26,6 @@
   <string name="text_settings">Setări de text</string>
   <string name="font_size_title">Dimensiune font</string>
   <string name="text_colors_title">Culori text</string>
+  <string name="volumekey_title">Tastele de volum ca intrare</string>
+  <string name="volumekey_summary">Butoanele de volum Sus/Jos vor introduce tastele Sus/Jos</string>
 </resources>

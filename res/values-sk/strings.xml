@@ -26,4 +26,6 @@
   <string name="text_settings">Nastavenia textu</string>
   <string name="font_size_title">Veľkosť písma</string>
   <string name="text_colors_title">Farby textu</string>
+  <string name="volumekey_title">Ovládanie kurzora tlačidlami hlasitosti</string>
+  <string name="volumekey_summary">Hlasitosť plus/mínus presunie kurzor hore/dolu</string>
 </resources>

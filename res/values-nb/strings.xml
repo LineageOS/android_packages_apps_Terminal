@@ -26,4 +26,6 @@
   <string name="text_settings">Tekstinnstillinger</string>
   <string name="font_size_title">Skriftstørrelse</string>
   <string name="text_colors_title">Tekstfarger</string>
+  <string name="volumekey_title">Volumtastene som inndata</string>
+  <string name="volumekey_summary">Volum opp/ned-knappene vil inputte opp/ned-piltaster</string>
 </resources>

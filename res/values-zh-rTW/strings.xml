@@ -26,4 +26,6 @@
   <string name="text_settings">文字設定</string>
   <string name="font_size_title">字型大小</string>
   <string name="text_colors_title">文字顏色</string>
+  <string name="volumekey_title">音量鍵作為輸入</string>
+  <string name="volumekey_summary">音量+ / 音量- 鍵將作為輸入的上/下鍵。</string>
 </resources>

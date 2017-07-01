@@ -26,4 +26,6 @@
   <string name="text_settings">Настройки за текст</string>
   <string name="font_size_title">Размер на шрифта</string>
   <string name="text_colors_title">Цветове на текста</string>
+  <string name="volumekey_title">Стрелки за контрол силата на звука</string>
+  <string name="volumekey_summary">Бутоните за звука нагоре/надолу премества курсора нагоре / надолу</string>
 </resources>

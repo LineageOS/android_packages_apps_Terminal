@@ -26,4 +26,6 @@
   <string name="text_settings">Настройки текста</string>
   <string name="font_size_title">Размер шрифта</string>
   <string name="text_colors_title">Цвет текста</string>
+  <string name="volumekey_title">Клавиши громкости для ввода</string>
+  <string name="volumekey_summary">Передавать нажатия аппаратных кнопок «вверх» и «вниз» кнопками громкости</string>
 </resources>

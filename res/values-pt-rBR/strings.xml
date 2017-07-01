@@ -26,4 +26,6 @@
   <string name="text_settings">Configurações de texto</string>
   <string name="font_size_title">Tamanho da fonte</string>
   <string name="text_colors_title">Cor do texto</string>
+  <string name="volumekey_title">Teclas de volume como entrada</string>
+  <string name="volumekey_summary">Usar as teclas de volume para mover o cursor para cima/baixo</string>
 </resources>

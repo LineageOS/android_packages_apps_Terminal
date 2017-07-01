@@ -26,4 +26,6 @@
   <string name="text_settings">Metin ayarları</string>
   <string name="font_size_title">Yazı tipi boyutu</string>
   <string name="text_colors_title">Metin renkleri</string>
+  <string name="volumekey_title">Giriş olarak ses tuşları</string>
+  <string name="volumekey_summary">Ses açma/kapama tuşları giriş aşağı/yuları tuşu olacak</string>
 </resources>

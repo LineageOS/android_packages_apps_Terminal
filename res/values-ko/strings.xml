@@ -26,4 +26,6 @@
   <string name="text_settings">텍스트 설정</string>
   <string name="font_size_title">글자 크기</string>
   <string name="text_colors_title">텍스트 색상</string>
+  <string name="volumekey_title">볼륨 키를 입력으로 사용</string>
+  <string name="volumekey_summary">볼륨 위/아래 키로 위/아래 키를 입력합니다.</string>
 </resources>

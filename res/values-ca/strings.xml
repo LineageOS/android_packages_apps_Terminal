@@ -26,4 +26,6 @@
   <string name="text_settings">Configuració del text</string>
   <string name="font_size_title">Mida  de la lletra</string>
   <string name="text_colors_title">Colors del text</string>
+  <string name="volumekey_title">Botons de volum com a entrada</string>
+  <string name="volumekey_summary">Els botons de pujar i baixar el volum es comportaran com a botons amunt/avall</string>
 </resources>
