@@ -26,4 +26,5 @@
   <string name="text_settings">Texteinstellungen</string>
   <string name="font_size_title">Schriftgröße</string>
   <string name="text_colors_title">Textfarben</string>
+  <string name="volumekey_title">Lautstärketasten als Eingabe</string>
 </resources>

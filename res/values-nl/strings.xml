@@ -26,4 +26,5 @@
   <string name="text_settings">Instellingen tekst</string>
   <string name="font_size_title">Lettergrootte</string>
   <string name="text_colors_title">Tekstkleuren</string>
+  <string name="volumekey_title">Volumeknoppen als input</string>
 </resources>

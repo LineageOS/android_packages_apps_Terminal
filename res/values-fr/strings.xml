@@ -26,4 +26,6 @@
   <string name="text_settings">Paramètres du texte</string>
   <string name="font_size_title">Taille de la police</string>
   <string name="text_colors_title">Couleurs du texte</string>
+  <string name="volumekey_title">Touches volumes comme entrées</string>
+  <string name="volumekey_summary">Les touches de volumes Haut/Bas inséreront les touches Haut/Bas</string>
 </resources>

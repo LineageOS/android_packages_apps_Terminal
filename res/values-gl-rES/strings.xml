@@ -26,4 +26,6 @@
   <string name="text_settings">Axustes do texto</string>
   <string name="font_size_title">Tamaño da fonte</string>
   <string name="text_colors_title">Cores do texto</string>
+  <string name="volumekey_title">Botón do volume como entrada</string>
+  <string name="volumekey_summary">Os botóns do volume comportaranse como botóns de arriba/abaixo</string>
 </resources>
