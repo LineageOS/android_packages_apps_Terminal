@@ -26,4 +26,5 @@
   <string name="text_settings">Ustawienia tekstu</string>
   <string name="font_size_title">Rozmiar czcionki</string>
   <string name="text_colors_title">Kolor tekstu</string>
+  <string name="volumekey_summary">Klawisze głośności jako strzałki w górę oraz w dół</string>
 </resources>

@@ -26,4 +26,6 @@
   <string name="text_settings">Tekstindstillinger</string>
   <string name="font_size_title">Skriftstørrelse</string>
   <string name="text_colors_title">Tekstfarver</string>
+  <string name="volumekey_title">Lydstyrketaster som input</string>
+  <string name="volumekey_summary">Lydstyrke op/ned-tasterne vil navigere op og ned</string>
 </resources>

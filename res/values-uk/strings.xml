@@ -26,4 +26,6 @@
   <string name="text_settings">Параметри тексту</string>
   <string name="font_size_title">Розмір шрифту</string>
   <string name="text_colors_title">Колір тексту</string>
+  <string name="volumekey_title">Кнопки гучності як увідні</string>
+  <string name="volumekey_summary">Кнопки гучності нагору/додолу посуне курсор нагору/додолу</string>
 </resources>

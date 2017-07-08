@@ -26,4 +26,6 @@
   <string name="text_settings">Axustes del testu</string>
   <string name="font_size_title">Tamañu de fonte</string>
   <string name="text_colors_title">Color del testu</string>
+  <string name="volumekey_title">Tecles de volume como entrada</string>
+  <string name="volumekey_summary">Les tecles de xubir/baxar volume actuarán como tecles d\'arriba/abaxo</string>
 </resources>
