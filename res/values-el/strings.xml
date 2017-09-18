@@ -26,4 +26,6 @@
   <string name="text_settings">Ρυθμίσεις κειμένου</string>
   <string name="font_size_title">Μέγεθος γραμματοσειράς</string>
   <string name="text_colors_title">Χρώματα κειμένου</string>
+  <string name="volumekey_title">Πλήκτρα έντασης ως εισαγωγή</string>
+  <string name="volumekey_summary">Τα πλήκτρα έντασης Πάνω/Κάτω θα εισάγουν τα Πάνω/Κάτω πλήκτρα</string>
 </resources>

@@ -26,4 +26,6 @@
   <string name="text_settings">Teks instellings</string>
   <string name="font_size_title">Lettergrootte</string>
   <string name="text_colors_title">Teks kleure</string>
+  <string name="volumekey_title">Volume knoppies as insette</string>
+  <string name="volumekey_summary">Volume Op/Af sleutels sal Op/Af knoppies insette lewer</string>
 </resources>
