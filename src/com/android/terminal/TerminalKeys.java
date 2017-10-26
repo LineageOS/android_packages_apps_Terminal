@@ -16,6 +16,8 @@
 
 package com.android.terminal;
 
+import android.content.Context;
+import android.preference.PreferenceManager;
 import android.util.Log;
 import android.view.KeyCharacterMap;
 import android.view.KeyEvent;
@@ -23,7 +25,7 @@ import android.view.View;
 
 public class TerminalKeys {
     private static final String TAG = "TerminalKeys";
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
     // Taken from vterm_input.h
     // TODO: Consider setting these via jni
     public static final int VTERM_KEY_NONE      = 0;
@@ -85,7 +87,10 @@ public class TerminalKeys {
         return mod;
     }
 
-    public static int getKey(KeyEvent event) {
+    public static int getKey(Context context, KeyEvent event) {
+        final boolean volumeAsInput = PreferenceManager.getDefaultSharedPreferences(context)
+                .getBoolean(TerminalSettingsActivity.KEY_VOLUME_MODE, false);
+
         switch(event.getKeyCode()) {
             case KeyEvent.KEYCODE_ENTER:
                 return VTERM_KEY_ENTER;
@@ -115,6 +120,10 @@ public class TerminalKeys {
                 return VTERM_KEY_PAGEUP;
             case KeyEvent.KEYCODE_PAGE_DOWN:
                 return VTERM_KEY_PAGEDOWN;
+            case KeyEvent.KEYCODE_VOLUME_UP:
+                return volumeAsInput ? VTERM_KEY_UP : 0;
+            case KeyEvent.KEYCODE_VOLUME_DOWN:
+                return volumeAsInput ? VTERM_KEY_DOWN : 0;
             default:
                 return 0;
         }
@@ -158,7 +167,14 @@ public class TerminalKeys {
     }
 
     public int getCharacter(KeyEvent event) {
-        int c = event.getUnicodeChar();
+        int c;
+
+        if (event.isShiftPressed()) {
+          c = event.getUnicodeChar(KeyEvent.META_SHIFT_LEFT_ON | KeyEvent.META_SHIFT_ON);
+        } else {
+          c = event.getUnicodeChar(0);
+        }
+
         // TODO: Actually support dead keys
         if ((c & KeyCharacterMap.COMBINING_ACCENT) != 0) {
             Log.w(TAG, "Received dead key, ignoring");
@@ -167,12 +183,12 @@ public class TerminalKeys {
         return c;
     }
 
-    public boolean onKey(View v, int keyCode, KeyEvent event) {
+    public boolean onKey(View v, Context context, int keyCode, KeyEvent event) {
         if (mTerm == null || event.getAction() == KeyEvent.ACTION_UP) return false;
 
         int modifiers = getModifiers(event);
 
-        int c = getKey(event);
+        int c = getKey(context, event);
         if (c != 0) {
             if (DEBUG) {
                 Log.d(TAG, "dispatched key event: " +
