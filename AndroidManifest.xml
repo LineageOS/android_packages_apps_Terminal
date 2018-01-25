@@ -18,6 +18,7 @@
 
     <application
         android:label="@string/app_label"
+        android:appCategory="productivity"
         android:enabled="false">
 
         <activity
