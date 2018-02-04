@@ -15,13 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-</resources>
+<resources></resources>
