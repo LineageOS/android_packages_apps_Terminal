@@ -26,4 +26,6 @@
   <string name="text_settings">Postavke teksta</string>
   <string name="font_size_title">Veličina fonta</string>
   <string name="text_colors_title">Boja teksta</string>
+  <string name="volumekey_title">Tipke za glasnoću kao ulaz</string>
+  <string name="volumekey_summary">Tipke za glasnoću Gore/Dolje će imati ulaz za tipke Gore/Dolje</string>
 </resources>
