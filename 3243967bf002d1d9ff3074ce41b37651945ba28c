@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6ef635bb_85d1669c",
+        "filename": "src/com/android/terminal/TerminalActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2018-08-31T11:43:40Z",
+      "side": 1,
+      "message": "Should remove those imports: unused and non-existant.",
+      "revId": "3243967bf002d1d9ff3074ce41b37651945ba28c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
