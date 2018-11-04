@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automático</item>
-    <item>Paisagem</item>
-    <item>Retrato</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Texto preto sobre fundo branco</item>
-    <item>Texto branco sobre fundo preto</item>
-    <item>Texto verde sobre fundo preto</item>
-    <item>Texto âmbar sobre fundo preto</item>
-    <item>Texto vermelho sobre fundo preto</item>
-    <item>Texto azul sobre fundo preto</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automático</item>
+        <item>Paisagem</item>
+        <item>Retrato</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Texto preto sobre fundo branco</item>
+        <item>Texto branco sobre fundo preto</item>
+        <item>Texto verde sobre fundo preto</item>
+        <item>Texto âmbar sobre fundo preto</item>
+        <item>Texto vermelho sobre fundo preto</item>
+        <item>Texto azul sobre fundo preto</item>
+    </string-array>
 </resources>

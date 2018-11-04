@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>स्वयंचलित</item>
-    <item>भूदृश्य</item>
-    <item>पोर्ट्रेट</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>पांढऱ्यावर काळा मजकूर</item>
-    <item>काळ्यावर पांढरा मजकूर</item>
-    <item>काळ्यावर हिरवा मजकूर</item>
-    <item>काळ्यावर केशरी मजकूर</item>
-    <item>काळ्यावर लाल मजकूर</item>
-    <item>काळ्यावर निळा मजकूर</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>स्वयंचलित</item>
+        <item>भूदृश्य</item>
+        <item>पोर्ट्रेट</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>पांढऱ्यावर काळा मजकूर</item>
+        <item>काळ्यावर पांढरा मजकूर</item>
+        <item>काळ्यावर हिरवा मजकूर</item>
+        <item>काळ्यावर केशरी मजकूर</item>
+        <item>काळ्यावर लाल मजकूर</item>
+        <item>काळ्यावर निळा मजकूर</item>
+    </string-array>
 </resources>

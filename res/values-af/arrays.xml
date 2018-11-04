@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Outomaties</item>
-    <item>Landskap</item>
-    <item>Portret</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Swart teks op wit</item>
-    <item>Wit teks op swart</item>
-    <item>Groen teks op swart</item>
-    <item>Oranje teks op swart</item>
-    <item>Rooi teks op swart</item>
-    <item>Blou teks op swart</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Outomaties</item>
+        <item>Landskap</item>
+        <item>Portret</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Swart teks op wit</item>
+        <item>Wit teks op swart</item>
+        <item>Groen teks op swart</item>
+        <item>Oranje teks op swart</item>
+        <item>Rooi teks op swart</item>
+        <item>Blou teks op swart</item>
+    </string-array>
 </resources>

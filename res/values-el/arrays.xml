@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Αυτόματος</item>
-    <item>Οριζόντιος</item>
-    <item>Κατακόρυφος</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Μαύρο κείμενο σε λευκό</item>
-    <item>Λευκό κείμενο σε μαύρο</item>
-    <item>Πράσινο κείμενο σε μαύρο</item>
-    <item>Πορτοκαλί κείμενο σε μαύρο</item>
-    <item>Κόκκινο κείμενο σε μαύρο</item>
-    <item>Μπλε κείμενο σε μαύρο</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Αυτόματος</item>
+        <item>Οριζόντιος</item>
+        <item>Κατακόρυφος</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Μαύρο κείμενο σε λευκό</item>
+        <item>Λευκό κείμενο σε μαύρο</item>
+        <item>Πράσινο κείμενο σε μαύρο</item>
+        <item>Πορτοκαλί κείμενο σε μαύρο</item>
+        <item>Κόκκινο κείμενο σε μαύρο</item>
+        <item>Μπλε κείμενο σε μαύρο</item>
+    </string-array>
 </resources>

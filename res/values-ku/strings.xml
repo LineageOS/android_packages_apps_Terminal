@@ -15,11 +15,11 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="menu_new_tab">تاقێکی نوێ</string>
-  <string name="menu_close_tab">داخستنی تاب</string>
-  <string name="menu_item_settings">ڕێکخستنه‌کان</string>
-  <string name="screen_settings">ڕێکخستنی شآشە</string>
-  <string name="font_size_title">قه‌باره‌ی نوسین</string>
-  <string name="text_colors_title">ڕەنگی نووسین</string>
+    <!-- Title of the Terminal activity. -->
+    <string name="menu_new_tab">تاقێکی نوێ</string>
+    <string name="menu_close_tab">داخستنی تاب</string>
+    <string name="menu_item_settings">ڕێکخستنه‌کان</string>
+    <string name="screen_settings">ڕێکخستنی شآشە</string>
+    <string name="font_size_title">قه‌باره‌ی نوسین</string>
+    <string name="text_colors_title">ڕەنگی نووسین</string>
 </resources>

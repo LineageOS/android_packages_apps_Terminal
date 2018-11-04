@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automatyczna</item>
-    <item>Pozioma</item>
-    <item>Pionowa</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Czarny tekst na białym tle</item>
-    <item>Biały tekst na czarnym tle</item>
-    <item>Zielony tekst na czarnym tle</item>
-    <item>Bursztynowy tekst na czarnym tle</item>
-    <item>Czerwony tekst na czarnym tle</item>
-    <item>Niebieski tekst na czarnym tle</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automatyczna</item>
+        <item>Pozioma</item>
+        <item>Pionowa</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Czarny tekst na białym tle</item>
+        <item>Biały tekst na czarnym tle</item>
+        <item>Zielony tekst na czarnym tle</item>
+        <item>Bursztynowy tekst na czarnym tle</item>
+        <item>Czerwony tekst na czarnym tle</item>
+        <item>Niebieski tekst na czarnym tle</item>
+    </string-array>
 </resources>

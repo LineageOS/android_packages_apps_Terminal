@@ -15,15 +15,15 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">ترمینال</string>
-  <string name="menu_new_tab">زبانه‌ی جدید</string>
-  <string name="menu_close_tab">بستن زبانه</string>
-  <string name="menu_item_settings">تنظیمات</string>
-  <string name="screen_settings">تنظیمات صفحه</string>
-  <string name="fullscreen_mode_title">حالت تمام صفحه</string>
-  <string name="screen_orientation_title">جهت صفحه</string>
-  <string name="text_settings">تنظیمات متن</string>
-  <string name="font_size_title">اندازه فونت</string>
-  <string name="text_colors_title">رنگ متن</string>
+    <!-- Title of the Terminal activity. -->
+    <string name="app_label">ترمینال</string>
+    <string name="menu_new_tab">زبانه‌ی جدید</string>
+    <string name="menu_close_tab">بستن زبانه</string>
+    <string name="menu_item_settings">تنظیمات</string>
+    <string name="screen_settings">تنظیمات صفحه</string>
+    <string name="fullscreen_mode_title">حالت تمام صفحه</string>
+    <string name="screen_orientation_title">جهت صفحه</string>
+    <string name="text_settings">تنظیمات متن</string>
+    <string name="font_size_title">اندازه فونت</string>
+    <string name="text_colors_title">رنگ متن</string>
 </resources>

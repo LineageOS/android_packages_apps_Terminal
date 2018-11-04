@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Samodejno</item>
-    <item>Ležeča</item>
-    <item>Pokončna</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 točk</item>
-    <item>12 točk</item>
-    <item>14 točk</item>
-    <item>16 točk</item>
-    <item>20 točk</item>
-    <item>24 točk</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Črno besedilo na belem</item>
-    <item>Belo besedilo na črnem</item>
-    <item>Zeleno besedilo na črnem</item>
-    <item>Jantarno besedilo na črnem</item>
-    <item>Rdeče besedilo na črnem</item>
-    <item>Modro besedilo na črnem</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Samodejno</item>
+        <item>Ležeča</item>
+        <item>Pokončna</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 točk</item>
+        <item>12 točk</item>
+        <item>14 točk</item>
+        <item>16 točk</item>
+        <item>20 točk</item>
+        <item>24 točk</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Črno besedilo na belem</item>
+        <item>Belo besedilo na črnem</item>
+        <item>Zeleno besedilo na črnem</item>
+        <item>Jantarno besedilo na črnem</item>
+        <item>Rdeče besedilo na črnem</item>
+        <item>Modro besedilo na črnem</item>
+    </string-array>
 </resources>

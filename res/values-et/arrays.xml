@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automaatne</item>
-    <item>Pikali</item>
-    <item>Püstine</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Must tekst valgel</item>
-    <item>Valge tekst mustal</item>
-    <item>Roheline tekst mustal</item>
-    <item>Kollane tekst mustal</item>
-    <item>Punane tekst mustal</item>
-    <item>Sinine tekst mustal</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automaatne</item>
+        <item>Pikali</item>
+        <item>Püstine</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Must tekst valgel</item>
+        <item>Valge tekst mustal</item>
+        <item>Roheline tekst mustal</item>
+        <item>Kollane tekst mustal</item>
+        <item>Punane tekst mustal</item>
+        <item>Sinine tekst mustal</item>
+    </string-array>
 </resources>

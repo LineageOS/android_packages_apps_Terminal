@@ -15,17 +15,17 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Terminál</string>
-  <string name="menu_new_tab">Nová karta</string>
-  <string name="menu_close_tab">Zavrieť kartu</string>
-  <string name="menu_item_settings">Nastavenia</string>
-  <string name="screen_settings">Nastavenia obrazovky</string>
-  <string name="fullscreen_mode_title">Celoobrazovkový režim</string>
-  <string name="screen_orientation_title">Orientácia obrazovky</string>
-  <string name="text_settings">Nastavenia textu</string>
-  <string name="font_size_title">Veľkosť písma</string>
-  <string name="text_colors_title">Farby textu</string>
-  <string name="volumekey_title">Ovládanie kurzora tlačidlami hlasitosti</string>
-  <string name="volumekey_summary">Hlasitosť plus/mínus presunie kurzor hore/dolu</string>
+    <!-- Title of the Terminal activity. -->
+    <string name="app_label">Terminál</string>
+    <string name="menu_new_tab">Nová karta</string>
+    <string name="menu_close_tab">Zavrieť kartu</string>
+    <string name="menu_item_settings">Nastavenia</string>
+    <string name="screen_settings">Nastavenia obrazovky</string>
+    <string name="fullscreen_mode_title">Celoobrazovkový režim</string>
+    <string name="screen_orientation_title">Orientácia obrazovky</string>
+    <string name="text_settings">Nastavenia textu</string>
+    <string name="font_size_title">Veľkosť písma</string>
+    <string name="text_colors_title">Farby textu</string>
+    <string name="volumekey_title">Ovládanie kurzora tlačidlami hlasitosti</string>
+    <string name="volumekey_summary">Hlasitosť plus/mínus presunie kurzor hore/dolu</string>
 </resources>

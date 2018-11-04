@@ -15,17 +15,17 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Terminal</string>
-  <string name="menu_new_tab">Yeni sekme</string>
-  <string name="menu_close_tab">Sekmeyi kapat</string>
-  <string name="menu_item_settings">Ayarlar</string>
-  <string name="screen_settings">Ekran ayarları</string>
-  <string name="fullscreen_mode_title">Tam ekran modu</string>
-  <string name="screen_orientation_title">Ekran yönü</string>
-  <string name="text_settings">Metin ayarları</string>
-  <string name="font_size_title">Yazı tipi boyutu</string>
-  <string name="text_colors_title">Metin renkleri</string>
-  <string name="volumekey_title">Giriş olarak ses tuşları</string>
-  <string name="volumekey_summary">Ses açma/kapama tuşları giriş aşağı/yuları tuşu olacak</string>
+    <!-- Title of the Terminal activity. -->
+    <string name="app_label">Terminal</string>
+    <string name="menu_new_tab">Yeni sekme</string>
+    <string name="menu_close_tab">Sekmeyi kapat</string>
+    <string name="menu_item_settings">Ayarlar</string>
+    <string name="screen_settings">Ekran ayarları</string>
+    <string name="fullscreen_mode_title">Tam ekran modu</string>
+    <string name="screen_orientation_title">Ekran yönü</string>
+    <string name="text_settings">Metin ayarları</string>
+    <string name="font_size_title">Yazı tipi boyutu</string>
+    <string name="text_colors_title">Metin renkleri</string>
+    <string name="volumekey_title">Giriş olarak ses tuşları</string>
+    <string name="volumekey_summary">Ses açma/kapama tuşları giriş aşağı/yuları tuşu olacak</string>
 </resources>
