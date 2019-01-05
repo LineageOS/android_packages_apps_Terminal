@@ -31,10 +31,10 @@
     </string-array>
     <string-array name="text_colors_labels">
         <item>Testu prietu sobre blancu</item>
-        <item>White text on black</item>
-        <item>Green text on black</item>
-        <item>Amber text on black</item>
-        <item>Red text on black</item>
-        <item>Blue text on black</item>
+        <item>Testu blancu sobre fondu prietu</item>
+        <item>Testu verde sobre fondu prietu</item>
+        <item>Testu naranxa sobre fondu prietu</item>
+        <item>Testu bermeyu sobre fondu prietu</item>
+        <item>Testu azul sobre fondu prietu</item>
     </string-array>
 </resources>

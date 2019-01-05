@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources>
+    <string-array name="screen_orientation_labels">
+        <item>Awtomatig</item>
+        <item>Tirlun</item>
+        <item>Darlun</item>
+    </string-array>
     <string-array name="font_size_labels">
         <item>10 pt</item>
         <item>12 pt</item>
@@ -28,7 +33,7 @@
         <item>Black text on white</item>
         <item>Testun gwyn ar ddu</item>
         <item>Green text on black</item>
-        <item>Amber text on black</item>
+        <item>Testun oren ar ddu</item>
         <item>Red text on black</item>
         <item>Blue text on black</item>
     </string-array>

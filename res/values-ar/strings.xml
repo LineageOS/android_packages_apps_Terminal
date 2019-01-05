@@ -26,4 +26,6 @@
     <string name="text_settings">إعدادات النص</string>
     <string name="font_size_title">حجم الخط</string>
     <string name="text_colors_title">ألوان النص</string>
+    <string name="volumekey_title">مفاتيح الصوت كمدخل</string>
+    <string name="volumekey_summary">مفاتيح الصوت أعلى/أسفل سوف تدخل مفاتيح أعلى/أسفل</string>
 </resources>
