@@ -30,11 +30,11 @@
         <item>24 pt</item>
     </string-array>
     <string-array name="text_colors_labels">
-        <item>Black text on white</item>
+        <item>Testun du ar wyn</item>
         <item>Testun gwyn ar ddu</item>
-        <item>Green text on black</item>
+        <item>Testun gwyrdd ar ddu</item>
         <item>Testun oren ar ddu</item>
-        <item>Red text on black</item>
-        <item>Blue text on black</item>
+        <item>Testun coch ar ddu</item>
+        <item>Testun glas ar ddu</item>
     </string-array>
 </resources>
