@@ -15,6 +15,5 @@
      limitations under the License.
 -->
 <resources>
-    <!-- Title of the Terminal activity. -->
     <string name="menu_item_settings">Roghainnean</string>
 </resources>

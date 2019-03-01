@@ -15,13 +15,13 @@
      limitations under the License.
 -->
 <resources>
-    <!-- Title of the Terminal activity. -->
     <string name="app_label">Terfynell</string>
     <string name="menu_new_tab">Tab newydd</string>
     <string name="menu_close_tab">Cau\'r tab</string>
     <string name="menu_item_settings">Gosodiadau</string>
     <string name="screen_settings">Gosodiadau\'r sgrin</string>
     <string name="fullscreen_mode_title">Modd sgrin llawn</string>
+    <string name="screen_orientation_title">Gorweddiad y sgrin</string>
     <string name="text_settings">Gosodiadau testun</string>
     <string name="font_size_title">Maint ffont</string>
     <string name="text_colors_title">Lliwiau testun</string>
