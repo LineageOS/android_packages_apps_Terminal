@@ -15,17 +15,16 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Terminal</string>
-  <string name="menu_new_tab">Nova pestanya</string>
-  <string name="menu_close_tab">Tanca la pestanya</string>
-  <string name="menu_item_settings">Configuració</string>
-  <string name="screen_settings">Configuració de pantalla</string>
-  <string name="fullscreen_mode_title">Mode de pantalla completa</string>
-  <string name="screen_orientation_title">Orientació de la pantalla</string>
-  <string name="text_settings">Configuració del text</string>
-  <string name="font_size_title">Mida  de la lletra</string>
-  <string name="text_colors_title">Colors del text</string>
-  <string name="volumekey_title">Botons de volum com a entrada</string>
-  <string name="volumekey_summary">Els botons de pujar i baixar el volum es comportaran com a botons amunt/avall</string>
+    <string name="app_label">Terminal</string>
+    <string name="menu_new_tab">Nova pestanya</string>
+    <string name="menu_close_tab">Tanca la pestanya</string>
+    <string name="menu_item_settings">Configuració</string>
+    <string name="screen_settings">Configuració de pantalla</string>
+    <string name="fullscreen_mode_title">Mode de pantalla completa</string>
+    <string name="screen_orientation_title">Orientació de la pantalla</string>
+    <string name="text_settings">Configuració del text</string>
+    <string name="font_size_title">Mida  de la lletra</string>
+    <string name="text_colors_title">Colors del text</string>
+    <string name="volumekey_title">Botons de volum com a entrada</string>
+    <string name="volumekey_summary">Els botons de pujar i baixar el volum es comportaran com a botons amunt/avall</string>
 </resources>

@@ -16,12 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Awtomatig</item>
+        <item>Tirlun</item>
+        <item>Darlun</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Testun du ar wyn</item>
+        <item>Testun gwyn ar ddu</item>
+        <item>Testun gwyrdd ar ddu</item>
+        <item>Testun oren ar ddu</item>
+        <item>Testun coch ar ddu</item>
+        <item>Testun glas ar ddu</item>
+    </string-array>
 </resources>

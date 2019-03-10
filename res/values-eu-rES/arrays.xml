@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automatikoa</item>
-    <item>Paisaia</item>
-    <item>Erretratua</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Testu beltza atzealde zurian</item>
-    <item>Testu zuria atzealde beltzean</item>
-    <item>Testu berdea atzealde beltzean</item>
-    <item>Testu anbara atzealde beltzean</item>
-    <item>Testu gorria atzealde beltzean</item>
-    <item>Testu urdina atzealde beltzean</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automatikoa</item>
+        <item>Paisaia</item>
+        <item>Erretratua</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Testu beltza atzealde zurian</item>
+        <item>Testu zuria atzealde beltzean</item>
+        <item>Testu berdea atzealde beltzean</item>
+        <item>Testu anbara atzealde beltzean</item>
+        <item>Testu gorria atzealde beltzean</item>
+        <item>Testu urdina atzealde beltzean</item>
+    </string-array>
 </resources>

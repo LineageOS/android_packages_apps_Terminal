@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>自動</item>
-    <item>横向き</item>
-    <item>縦向き</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>白地に黒色のテキスト</item>
-    <item>黒地に白色のテキスト</item>
-    <item>黒地に緑色のテキスト</item>
-    <item>黒地に琥珀色のテキスト</item>
-    <item>黒地に赤色のテキスト</item>
-    <item>黒地に青色のテキスト</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>自動</item>
+        <item>横向き</item>
+        <item>縦向き</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>白地に黒色のテキスト</item>
+        <item>黒地に白色のテキスト</item>
+        <item>黒地に緑色のテキスト</item>
+        <item>黒地に琥珀色のテキスト</item>
+        <item>黒地に赤色のテキスト</item>
+        <item>黒地に青色のテキスト</item>
+    </string-array>
 </resources>

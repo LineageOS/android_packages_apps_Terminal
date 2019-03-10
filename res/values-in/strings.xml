@@ -15,16 +15,15 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="menu_new_tab">Tab baru</string>
-  <string name="menu_close_tab">Tutup tab</string>
-  <string name="menu_item_settings">Pengaturan</string>
-  <string name="screen_settings">Pengaturan layar</string>
-  <string name="fullscreen_mode_title">Modus layar penuh</string>
-  <string name="screen_orientation_title">Orientasi Layar</string>
-  <string name="text_settings">Pengaturan teks</string>
-  <string name="font_size_title">Ukuran huruf</string>
-  <string name="text_colors_title">Warna teks</string>
-  <string name="volumekey_title">Tombol volume sebagai masukan</string>
-  <string name="volumekey_summary">Tombol volume atas/bawah akan berfungsi sebagai tombol masukan atas/bawah</string>
+    <string name="menu_new_tab">Tab baru</string>
+    <string name="menu_close_tab">Tutup tab</string>
+    <string name="menu_item_settings">Pengaturan</string>
+    <string name="screen_settings">Pengaturan layar</string>
+    <string name="fullscreen_mode_title">Modus layar penuh</string>
+    <string name="screen_orientation_title">Orientasi Layar</string>
+    <string name="text_settings">Pengaturan teks</string>
+    <string name="font_size_title">Ukuran huruf</string>
+    <string name="text_colors_title">Warna teks</string>
+    <string name="volumekey_title">Tombol volume sebagai masukan</string>
+    <string name="volumekey_summary">Tombol volume atas/bawah akan berfungsi sebagai tombol masukan atas/bawah</string>
 </resources>

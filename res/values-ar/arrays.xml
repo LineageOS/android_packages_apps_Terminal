@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>تلقائي</item>
-    <item>أفقي</item>
-    <item>رأسي</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>١٠ نقاط</item>
-    <item>١٢ نقطة</item>
-    <item>١٤ نقطة</item>
-    <item>١٦ نقطة</item>
-    <item>٢٠ نقطة</item>
-    <item>٢٤ نقطة</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>نص أسود على أبيض</item>
-    <item>نص أبيض على أسود</item>
-    <item>نص أخضر على أسود</item>
-    <item>نص أصفر على أسود</item>
-    <item>نص أحمر على أسود</item>
-    <item>نص أزرق على أسود</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>تلقائي</item>
+        <item>أفقي</item>
+        <item>رأسي</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>١٠ نقاط</item>
+        <item>١٢ نقطة</item>
+        <item>١٤ نقطة</item>
+        <item>١٦ نقطة</item>
+        <item>٢٠ نقطة</item>
+        <item>٢٤ نقطة</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>نص أسود على أبيض</item>
+        <item>نص أبيض على أسود</item>
+        <item>نص أخضر على أسود</item>
+        <item>نص أصفر على أسود</item>
+        <item>نص أحمر على أسود</item>
+        <item>نص أزرق على أسود</item>
+    </string-array>
 </resources>

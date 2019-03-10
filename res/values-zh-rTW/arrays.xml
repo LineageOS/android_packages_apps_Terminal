@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>自動</item>
-    <item>橫向</item>
-    <item>縱向</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>白底黑字</item>
-    <item>黑底白字</item>
-    <item>黑底綠字</item>
-    <item>黑底黃字</item>
-    <item>黑底紅字</item>
-    <item>黑底藍字</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>自動</item>
+        <item>橫向</item>
+        <item>縱向</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>白底黑字</item>
+        <item>黑底白字</item>
+        <item>黑底綠字</item>
+        <item>黑底黃字</item>
+        <item>黑底紅字</item>
+        <item>黑底藍字</item>
+    </string-array>
 </resources>

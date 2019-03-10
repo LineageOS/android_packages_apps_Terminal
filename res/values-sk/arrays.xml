@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automatická</item>
-    <item>Na šírku</item>
-    <item>Na výšku</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 bodov</item>
-    <item>12 bodov</item>
-    <item>14 bodov</item>
-    <item>16 bodov</item>
-    <item>20 bodov</item>
-    <item>24 bodov</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Čierny text na bielom</item>
-    <item>Biely text na čiernom</item>
-    <item>Zelený text na čiernom</item>
-    <item>Jantárový text na čiernom</item>
-    <item>Červený text na čiernom</item>
-    <item>Modrý text na čiernom</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automatická</item>
+        <item>Na šírku</item>
+        <item>Na výšku</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 bodov</item>
+        <item>12 bodov</item>
+        <item>14 bodov</item>
+        <item>16 bodov</item>
+        <item>20 bodov</item>
+        <item>24 bodov</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Čierny text na bielom</item>
+        <item>Biely text na čiernom</item>
+        <item>Zelený text na čiernom</item>
+        <item>Jantárový text na čiernom</item>
+        <item>Červený text na čiernom</item>
+        <item>Modrý text na čiernom</item>
+    </string-array>
 </resources>

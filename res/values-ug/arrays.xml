@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>ئاپتوماتىك</item>
-    <item>توغرىسىغا</item>
-    <item>بويىغا</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10pt</item>
-    <item>12pt</item>
-    <item>14pt</item>
-    <item>16pt</item>
-    <item>20pt</item>
-    <item>24pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>ئاق تەگلىك قارا خەت</item>
-    <item>قارا تەگلىك ئاق خەت</item>
-    <item>قارا تەگلىك يېشىل خەت</item>
-    <item>قارا تەگلىك سېرىق خەت</item>
-    <item>قارا تەگلىك قىزىل خەت</item>
-    <item>قارا تەگلىك كۆك خەت</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>ئاپتوماتىك</item>
+        <item>توغرىسىغا</item>
+        <item>بويىغا</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10pt</item>
+        <item>12pt</item>
+        <item>14pt</item>
+        <item>16pt</item>
+        <item>20pt</item>
+        <item>24pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>ئاق تەگلىك قارا خەت</item>
+        <item>قارا تەگلىك ئاق خەت</item>
+        <item>قارا تەگلىك يېشىل خەت</item>
+        <item>قارا تەگلىك سېرىق خەت</item>
+        <item>قارا تەگلىك قىزىل خەت</item>
+        <item>قارا تەگلىك كۆك خەت</item>
+    </string-array>
 </resources>

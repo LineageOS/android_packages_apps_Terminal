@@ -15,17 +15,16 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Термінал</string>
-  <string name="menu_new_tab">Нова вкладка</string>
-  <string name="menu_close_tab">Закрити вкладку</string>
-  <string name="menu_item_settings">Налаштування</string>
-  <string name="screen_settings">Параметри екрану</string>
-  <string name="fullscreen_mode_title">Повноекранний режим</string>
-  <string name="screen_orientation_title">Орієнтація екрану</string>
-  <string name="text_settings">Параметри тексту</string>
-  <string name="font_size_title">Розмір шрифту</string>
-  <string name="text_colors_title">Колір тексту</string>
-  <string name="volumekey_title">Кнопки гучності як увідні</string>
-  <string name="volumekey_summary">Кнопки гучності нагору/додолу посуне курсор нагору/додолу</string>
+    <string name="app_label">Термінал</string>
+    <string name="menu_new_tab">Нова вкладка</string>
+    <string name="menu_close_tab">Закрити вкладку</string>
+    <string name="menu_item_settings">Налаштування</string>
+    <string name="screen_settings">Параметри екрану</string>
+    <string name="fullscreen_mode_title">Повноекранний режим</string>
+    <string name="screen_orientation_title">Орієнтація екрану</string>
+    <string name="text_settings">Параметри тексту</string>
+    <string name="font_size_title">Розмір шрифту</string>
+    <string name="text_colors_title">Колір тексту</string>
+    <string name="volumekey_title">Кнопки гучності як увідні</string>
+    <string name="volumekey_summary">Кнопки гучності нагору/додолу посуне курсор нагору/додолу</string>
 </resources>

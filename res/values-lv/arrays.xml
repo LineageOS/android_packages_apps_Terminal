@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automātiski</item>
-    <item>Ainava</item>
-    <item>Portreta</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 p</item>
-    <item>12 p</item>
-    <item>14 p</item>
-    <item>16 p</item>
-    <item>20 p</item>
-    <item>24 p</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Melns teksts uz balta fona</item>
-    <item>Balts teksts uz melna fona</item>
-    <item>Zaļš teksts uz melna fona</item>
-    <item>Dzeltens teksts uz melna fona</item>
-    <item>Sarkans teksts uz melna fona</item>
-    <item>Zils teksts uz melna fona</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automātiski</item>
+        <item>Ainava</item>
+        <item>Portreta</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 p</item>
+        <item>12 p</item>
+        <item>14 p</item>
+        <item>16 p</item>
+        <item>20 p</item>
+        <item>24 p</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Melns teksts uz balta fona</item>
+        <item>Balts teksts uz melna fona</item>
+        <item>Zaļš teksts uz melna fona</item>
+        <item>Dzeltens teksts uz melna fona</item>
+        <item>Sarkans teksts uz melna fona</item>
+        <item>Zils teksts uz melna fona</item>
+    </string-array>
 </resources>

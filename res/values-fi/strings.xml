@@ -15,17 +15,16 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Pääte</string>
-  <string name="menu_new_tab">Uusi välilehti</string>
-  <string name="menu_close_tab">Sulje välilehti</string>
-  <string name="menu_item_settings">Asetukset</string>
-  <string name="screen_settings">Näytön asetukset</string>
-  <string name="fullscreen_mode_title">Koko näytön tila</string>
-  <string name="screen_orientation_title">Näytön kierto</string>
-  <string name="text_settings">Tekstiasetukset</string>
-  <string name="font_size_title">Fonttikoko</string>
-  <string name="text_colors_title">Tekstin värit</string>
-  <string name="volumekey_title">Äänenvoimakkuusnäppäimet syöttönäppäiminä</string>
-  <string name="volumekey_summary">Äänenvoimakkus ylös/alas toimii ylös/alas-näppäiminä</string>
+    <string name="app_label">Pääte</string>
+    <string name="menu_new_tab">Uusi välilehti</string>
+    <string name="menu_close_tab">Sulje välilehti</string>
+    <string name="menu_item_settings">Asetukset</string>
+    <string name="screen_settings">Näytön asetukset</string>
+    <string name="fullscreen_mode_title">Koko näytön tila</string>
+    <string name="screen_orientation_title">Näytön kierto</string>
+    <string name="text_settings">Tekstiasetukset</string>
+    <string name="font_size_title">Fonttikoko</string>
+    <string name="text_colors_title">Tekstin värit</string>
+    <string name="volumekey_title">Äänenvoimakkuusnäppäimet syöttönäppäiminä</string>
+    <string name="volumekey_summary">Äänenvoimakkus ylös/alas toimii ylös/alas-näppäiminä</string>
 </resources>
