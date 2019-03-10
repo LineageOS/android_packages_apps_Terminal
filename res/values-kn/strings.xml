@@ -23,6 +23,7 @@
     <string name="fullscreen_mode_title">ಪೂರ್ಣಪರದೆ ಮೋಡ್</string>
     <string name="screen_orientation_title">ಪರದೆಯ ದೃಷ್ಟಿಕೋನ</string>
     <string name="text_settings">ಪಠ್ಯ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
-    <string name="font_size_title">ಫಾಂಟ್ ಗಾತ್ರ</string>
+    <string name="font_size_title">ಅಕ್ಷರ ಗಾತ್ರ</string>
     <string name="text_colors_title">ಪಠ್ಯ ಬಣ್ಣಗಳು</string>
+    <string name="volumekey_title">ಆದಾನವಾಗಿ ಶಬ್ಧ ಕೀಲಿಗಳು</string>
 </resources>
