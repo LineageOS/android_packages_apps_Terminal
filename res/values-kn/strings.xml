@@ -25,4 +25,6 @@
     <string name="text_settings">ಪಠ್ಯ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
     <string name="font_size_title">ಫಾಂಟ್ ಗಾತ್ರ</string>
     <string name="text_colors_title">ಪಠ್ಯ ಬಣ್ಣಗಳು</string>
+    <string name="volumekey_title">ಆದಾನವಾಗಿ ಶಬ್ಧ ಕೀಲಿಗಳು</string>
+    <string name="volumekey_summary">ಶಬ್ದ ಏರು/ಇಳಿ ಕೀಲಿಗಳು ಮೇಲೆ/ಕೆಳಗೆ ಕೀಲಿಗಳ ಆದಾನ ಮಾಡುತ್ತವೆ</string>
 </resources>

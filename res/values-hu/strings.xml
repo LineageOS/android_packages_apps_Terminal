@@ -25,4 +25,6 @@
     <string name="text_settings">Szöveg beállítások</string>
     <string name="font_size_title">Betűméret</string>
     <string name="text_colors_title">Szöveg színek</string>
+    <string name="volumekey_title">Hangerőgombok használata bevitelhez</string>
+    <string name="volumekey_summary">A hangerő fel/le gombok megnyomására fel/le gomb bevitele</string>
 </resources>
