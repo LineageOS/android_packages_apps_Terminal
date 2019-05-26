@@ -15,10 +15,10 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_label">ಟರ್ಮಿನಲ್</string>
+    <string name="app_label">ನಿಲ್ದಾಣ</string>
     <string name="menu_new_tab">ಹೊಸ ಟ್ಯಾಬ್</string>
-    <string name="menu_close_tab">ಟ್ಯಾಬ್ ಮುಚ್ಚಿ</string>
-    <string name="menu_item_settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="menu_close_tab">ಪುಟ ಮುಚ್ಚು</string>
+    <string name="menu_item_settings">ಅಳವಡಿಕೆಗಳು</string>
     <string name="screen_settings">ಪರದೆ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
     <string name="fullscreen_mode_title">ಪೂರ್ಣಪರದೆ ಮೋಡ್</string>
     <string name="screen_orientation_title">ಪರದೆಯ ದೃಷ್ಟಿಕೋನ</string>

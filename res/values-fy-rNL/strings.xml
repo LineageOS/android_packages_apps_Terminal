@@ -15,5 +15,16 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_label">Terminal</string>
+    <string name="menu_new_tab">Nij ljepblêd</string>
+    <string name="menu_close_tab">Ljepblêd slute</string>
     <string name="menu_item_settings">Ynstellingen</string>
+    <string name="screen_settings">Ynstellingen skerm</string>
+    <string name="fullscreen_mode_title">Folslein skermmodus</string>
+    <string name="screen_orientation_title">Skermoriïntaasje</string>
+    <string name="text_settings">Ynstellingen tekst</string>
+    <string name="font_size_title">Lettergrutte</string>
+    <string name="text_colors_title">Tekstkleuren</string>
+    <string name="volumekey_title">Folumeknoppen as ynfier</string>
+    <string name="volumekey_summary">Folume omheech/omleech is omheech-/omleech-knop</string>
 </resources>

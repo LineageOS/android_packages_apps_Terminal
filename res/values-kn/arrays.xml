@@ -18,16 +18,16 @@
 <resources>
     <string-array name="screen_orientation_labels">
         <item>ಸ್ವಯಂಚಾಲಿತ</item>
-        <item>ಲ್ಯಾಂಡ್‍ಸ್ಕೇಪ್</item>
+        <item>ನೆಲಗಾಣ್ಕೆ</item>
         <item>ಪೋಟ್ರೇಟ್</item>
     </string-array>
     <string-array name="font_size_labels">
-        <item>10 pt</item>
-        <item>12 pt</item>
-        <item>14 pt</item>
-        <item>16 pt</item>
-        <item>20 pt</item>
-        <item>24 pt</item>
+        <item>೧೦ ಬಿಂದು</item>
+        <item>೧೨ ಬಿಂದು</item>
+        <item>೧೪ ಬಿಂದು</item>
+        <item>೧೬ ಬಿಂದು</item>
+        <item>೨೦ ಬಿಂದು</item>
+        <item>೨೪ ಬಿಂದು</item>
     </string-array>
     <string-array name="text_colors_labels">
         <item>ಬಿಳಿಯ ಮೇಲೆ ಕಪ್ಪು ಪಠ್ಯ</item>

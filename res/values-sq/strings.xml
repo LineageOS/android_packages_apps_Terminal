@@ -25,4 +25,6 @@
     <string name="text_settings">Parametrat e tekstit</string>
     <string name="font_size_title">Madhësia e gërmave</string>
     <string name="text_colors_title">Ngjyrat e tekstit</string>
+    <string name="volumekey_title">Tastat e volumit si veprim hyrës</string>
+    <string name="volumekey_summary">Butonat e volumit Lart/Poshtë do të shërbejnë si tasta Lart/Poshtë</string>
 </resources>

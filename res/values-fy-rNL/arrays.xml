@@ -16,6 +16,11 @@
      limitations under the License.
 -->
 <resources>
+    <string-array name="screen_orientation_labels">
+        <item>Automatysk</item>
+        <item>Lizzend</item>
+        <item>Steand</item>
+    </string-array>
     <string-array name="font_size_labels">
         <item>10 pt</item>
         <item>12 pt</item>
@@ -23,5 +28,13 @@
         <item>16 pt</item>
         <item>20 pt</item>
         <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Swarte tekst op wyt</item>
+        <item>Wite tekst op swart</item>
+        <item>Griene tekst op swart</item>
+        <item>Oranje tekst op swart</item>
+        <item>Reade tekst op swart</item>
+        <item>Blauwe tekst op swart</item>
     </string-array>
 </resources>
