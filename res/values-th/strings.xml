@@ -25,4 +25,5 @@
     <string name="text_settings">การตั้งค่าข้อความ</string>
     <string name="font_size_title">ขนาดแบบอักษร</string>
     <string name="text_colors_title">สีข้อความ</string>
+    <string name="volumekey_title">ปุ่มปรับระดับเสียงเป็นอินพุต</string>
 </resources>

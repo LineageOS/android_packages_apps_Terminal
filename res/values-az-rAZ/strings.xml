@@ -25,4 +25,6 @@
     <string name="text_settings">Mətn tənzimləmələri</string>
     <string name="font_size_title">Yazı tipi ölçüsü</string>
     <string name="text_colors_title">Mətn rəngləri</string>
+    <string name="volumekey_title">Səs düymələri giriş kimi</string>
+    <string name="volumekey_summary">Giriş Aşağı/Yuxarı düymələri Səs Azaltma/Artırma düymələri olacaq</string>
 </resources>
