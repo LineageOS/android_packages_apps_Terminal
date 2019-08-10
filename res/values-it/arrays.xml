@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automatico</item>
-    <item>Orizzontale</item>
-    <item>Verticale</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Testo nero su bianco</item>
-    <item>Testo bianco su nero</item>
-    <item>Testo verde su nero</item>
-    <item>Testo arancione su nero</item>
-    <item>Testo rosso su nero</item>
-    <item>Testo blu su nero</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automatico</item>
+        <item>Orizzontale</item>
+        <item>Verticale</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Testo nero su bianco</item>
+        <item>Testo bianco su nero</item>
+        <item>Testo verde su nero</item>
+        <item>Testo arancione su nero</item>
+        <item>Testo rosso su nero</item>
+        <item>Testo blu su nero</item>
+    </string-array>
 </resources>

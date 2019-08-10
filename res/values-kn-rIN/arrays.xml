@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>ಸ್ವಯಂಚಾಲಿತ</item>
-    <item>ಲ್ಯಾಂಡ್‍ಸ್ಕೇಪ್</item>
-    <item>ಪೋಟ್ರೇಟ್</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>ಬಿಳಿಯ ಮೇಲೆ ಕಪ್ಪು ಪಠ್ಯ</item>
-    <item>ಕಪ್ಪಿನ ಮೇಲೆ ಬಿಳಿ ಪಠ್ಯ</item>
-    <item>ಕಪ್ಪಿನ ಮೇಲೆ ಹಸಿರು ಪಠ್ಯ</item>
-    <item>ಕಪ್ಪಿನ ಮೇಲೆ ಕಿತ್ತಲೆ ಹಳದಿ ಪಠ್ಯ</item>
-    <item>ಕಪ್ಪಿನ ಮೇಲೆ ಕೆಂಪು ಪಠ್ಯ</item>
-    <item>ಕಪ್ಪಿನ ಮೇಲೆ ನೀಲಿ ಪಠ್ಯ</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>ಸ್ವಯಂಚಾಲಿತ</item>
+        <item>ಲ್ಯಾಂಡ್‍ಸ್ಕೇಪ್</item>
+        <item>ಪೋಟ್ರೇಟ್</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>ಬಿಳಿಯ ಮೇಲೆ ಕಪ್ಪು ಪಠ್ಯ</item>
+        <item>ಕಪ್ಪಿನ ಮೇಲೆ ಬಿಳಿ ಪಠ್ಯ</item>
+        <item>ಕಪ್ಪಿನ ಮೇಲೆ ಹಸಿರು ಪಠ್ಯ</item>
+        <item>ಕಪ್ಪಿನ ಮೇಲೆ ಕಿತ್ತಲೆ ಹಳದಿ ಪಠ್ಯ</item>
+        <item>ಕಪ್ಪಿನ ಮೇಲೆ ಕೆಂಪು ಪಠ್ಯ</item>
+        <item>ಕಪ್ಪಿನ ಮೇಲೆ ನೀಲಿ ಪಠ್ಯ</item>
+    </string-array>
 </resources>

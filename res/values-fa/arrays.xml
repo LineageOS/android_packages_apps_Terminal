@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>خودکار</item>
-    <item>افقی</item>
-    <item>عمودی</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>۱۰ پوینت</item>
-    <item>۱۲ پوینت</item>
-    <item>۱۴ پوینت</item>
-    <item>۱۶ پوینت</item>
-    <item>۲۰ پوینت</item>
-    <item>۲۴ پوینت</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>متن سیاه روی سفید</item>
-    <item>متن سفید روی سیاه</item>
-    <item>متن سبز روی سیاه</item>
-    <item>متن نارنجی روی سیاه</item>
-    <item>متن قرمز روی سیاه</item>
-    <item>متن آبی روی سیاه</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>خودکار</item>
+        <item>افقی</item>
+        <item>عمودی</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>۱۰ پوینت</item>
+        <item>۱۲ پوینت</item>
+        <item>۱۴ پوینت</item>
+        <item>۱۶ پوینت</item>
+        <item>۲۰ پوینت</item>
+        <item>۲۴ پوینت</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>متن سیاه روی سفید</item>
+        <item>متن سفید روی سیاه</item>
+        <item>متن سبز روی سیاه</item>
+        <item>متن نارنجی روی سیاه</item>
+        <item>متن قرمز روی سیاه</item>
+        <item>متن آبی روی سیاه</item>
+    </string-array>
 </resources>

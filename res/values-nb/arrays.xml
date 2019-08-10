@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automatisk</item>
-    <item>Landskap</item>
-    <item>Portrett</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pkt</item>
-    <item>12 pkt</item>
-    <item>14 pkt</item>
-    <item>16 pkt</item>
-    <item>20 pkt</item>
-    <item>24 pkt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Sort tekst på hvitt</item>
-    <item>Hvit tekst på sort</item>
-    <item>Grønn tekst på sort</item>
-    <item>Amber tekst på sort</item>
-    <item>Rød tekst på sort</item>
-    <item>Blå tekst på sort</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automatisk</item>
+        <item>Landskap</item>
+        <item>Portrett</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pkt</item>
+        <item>12 pkt</item>
+        <item>14 pkt</item>
+        <item>16 pkt</item>
+        <item>20 pkt</item>
+        <item>24 pkt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Sort tekst på hvitt</item>
+        <item>Hvit tekst på sort</item>
+        <item>Grønn tekst på sort</item>
+        <item>Amber tekst på sort</item>
+        <item>Rød tekst på sort</item>
+        <item>Blå tekst på sort</item>
+    </string-array>
 </resources>

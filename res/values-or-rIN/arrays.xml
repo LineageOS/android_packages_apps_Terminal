@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>ସ୍ୱତଃସ୍ପୃତ</item>
-    <item>ଲ୍ୟାଣ୍ଡସ୍କେପ୍</item>
-    <item>ପୋରଟ୍ରେଇଟ୍</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>ଧଳା ଉପରେ କଳା ପାଠ୍ୟ</item>
-    <item>କଳା ଉପରେ ଧଳା ପାଠ୍ୟ</item>
-    <item>କଳା ଉପରେ ସବୁଜ ପାଠ୍ୟ</item>
-    <item>କଳା ଉପରେ ଅମ୍ବର ପାଠ୍ୟ</item>
-    <item>କଳା ଉପରେ ଲାଲ୍‍ ପାଠ୍ୟ</item>
-    <item>କଳା ଉପରେ ନୀଳ ପାଠ୍ୟ</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>ସ୍ୱତଃସ୍ପୃତ</item>
+        <item>ଲ୍ୟାଣ୍ଡସ୍କେପ୍</item>
+        <item>ପୋରଟ୍ରେଇଟ୍</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>ଧଳା ଉପରେ କଳା ପାଠ୍ୟ</item>
+        <item>କଳା ଉପରେ ଧଳା ପାଠ୍ୟ</item>
+        <item>କଳା ଉପରେ ସବୁଜ ପାଠ୍ୟ</item>
+        <item>କଳା ଉପରେ ଅମ୍ବର ପାଠ୍ୟ</item>
+        <item>କଳା ଉପରେ ଲାଲ୍‍ ପାଠ୍ୟ</item>
+        <item>କଳା ଉପରେ ନୀଳ ପାଠ୍ୟ</item>
+    </string-array>
 </resources>

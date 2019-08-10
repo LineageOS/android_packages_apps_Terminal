@@ -15,15 +15,14 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Terminal</string>
-  <string name="menu_new_tab">Nov zavihek</string>
-  <string name="menu_close_tab">Zapri zavihek</string>
-  <string name="menu_item_settings">Nastavitve</string>
-  <string name="screen_settings">Nastavitve zaslona</string>
-  <string name="fullscreen_mode_title">Celozaslonski način</string>
-  <string name="screen_orientation_title">Usmerjenost zaslona</string>
-  <string name="text_settings">Nastavitve besedila</string>
-  <string name="font_size_title">Velikost pisave</string>
-  <string name="text_colors_title">Barve besedila</string>
+    <string name="app_label">Terminal</string>
+    <string name="menu_new_tab">Nov zavihek</string>
+    <string name="menu_close_tab">Zapri zavihek</string>
+    <string name="menu_item_settings">Nastavitve</string>
+    <string name="screen_settings">Nastavitve zaslona</string>
+    <string name="fullscreen_mode_title">Celozaslonski način</string>
+    <string name="screen_orientation_title">Usmerjenost zaslona</string>
+    <string name="text_settings">Nastavitve besedila</string>
+    <string name="font_size_title">Velikost pisave</string>
+    <string name="text_colors_title">Barve besedila</string>
 </resources>

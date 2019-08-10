@@ -15,15 +15,14 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Title of the Terminal activity. -->
-  <string name="app_label">Terminal</string>
-  <string name="menu_new_tab">Uus vahekaart</string>
-  <string name="menu_close_tab">Sulge vahekaart</string>
-  <string name="menu_item_settings">Seaded</string>
-  <string name="screen_settings">Ekraani seaded</string>
-  <string name="fullscreen_mode_title">Täisekraanirežiimis</string>
-  <string name="screen_orientation_title">Ekraani suund</string>
-  <string name="text_settings">Teksti seaded</string>
-  <string name="font_size_title">Teksti suurus</string>
-  <string name="text_colors_title">Värvid</string>
+    <string name="app_label">Terminal</string>
+    <string name="menu_new_tab">Uus vahekaart</string>
+    <string name="menu_close_tab">Sulge vahekaart</string>
+    <string name="menu_item_settings">Seaded</string>
+    <string name="screen_settings">Ekraani seaded</string>
+    <string name="fullscreen_mode_title">Täisekraanirežiimis</string>
+    <string name="screen_orientation_title">Ekraani suund</string>
+    <string name="text_settings">Teksti seaded</string>
+    <string name="font_size_title">Teksti suurus</string>
+    <string name="text_colors_title">Värvid</string>
 </resources>

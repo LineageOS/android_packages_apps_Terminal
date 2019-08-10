@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Otomatik</item>
-    <item>Manzara</item>
-    <item>Portre</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Beyaz üzerine siyah metin</item>
-    <item>Siyah üzerine beyaz metin</item>
-    <item>Siyah üzerine yeşil metin</item>
-    <item>Siyah üzerine turuncu metin</item>
-    <item>Siyah üzerine kırmızı metin</item>
-    <item>Siyah üzerine mavi metin</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Otomatik</item>
+        <item>Manzara</item>
+        <item>Portre</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Beyaz üzerine siyah metin</item>
+        <item>Siyah üzerine beyaz metin</item>
+        <item>Siyah üzerine yeşil metin</item>
+        <item>Siyah üzerine turuncu metin</item>
+        <item>Siyah üzerine kırmızı metin</item>
+        <item>Siyah üzerine mavi metin</item>
+    </string-array>
 </resources>

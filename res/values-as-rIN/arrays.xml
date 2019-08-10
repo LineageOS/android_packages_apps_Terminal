@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>স্বয়ংক্ৰিয়</item>
-    <item>লেণ্ডস্কেপ</item>
-    <item>প’ৰ্ট্ৰেইট</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>বগাৰ ওপৰত ক\'লা পাঠ</item>
-    <item>ক\'লাৰ ওপৰত বগা পাঠ</item>
-    <item>ক\'লাৰ ওপৰত সেউজীয়া পাঠ</item>
-    <item>ক\'লাৰ ওপৰত হালধীয়া পাঠ</item>
-    <item>ক\'লাৰ ওপৰত ৰঙা পাঠ</item>
-    <item>ক\'লাৰ ওপৰত নীলা পাঠ</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>স্বয়ংক্ৰিয়</item>
+        <item>লেণ্ডস্কেপ</item>
+        <item>প’ৰ্ট্ৰেইট</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>বগাৰ ওপৰত ক\'লা পাঠ</item>
+        <item>ক\'লাৰ ওপৰত বগা পাঠ</item>
+        <item>ক\'লাৰ ওপৰত সেউজীয়া পাঠ</item>
+        <item>ক\'লাৰ ওপৰত হালধীয়া পাঠ</item>
+        <item>ক\'লাৰ ওপৰত ৰঙা পাঠ</item>
+        <item>ক\'লাৰ ওপৰত নীলা পাঠ</item>
+    </string-array>
 </resources>

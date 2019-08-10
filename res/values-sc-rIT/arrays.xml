@@ -15,4 +15,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string-array name="screen_orientation_labels">
+        <item>Automàticu</item>
+        <item>Orizontale</item>
+        <item>Verticale</item>
+    </string-array>
+</resources>

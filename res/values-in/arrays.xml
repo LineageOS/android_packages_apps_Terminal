@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Otomatis</item>
-    <item>Lanskap</item>
-    <item>Potret</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Teks hitam pada putih</item>
-    <item>Teks putih pada hitam</item>
-    <item>Teks hijau pada hitam</item>
-    <item>Teks kuning pada hitam</item>
-    <item>Teks merah pada hitam</item>
-    <item>Teks biru pada hitam</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Otomatis</item>
+        <item>Lanskap</item>
+        <item>Potret</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Teks hitam pada putih</item>
+        <item>Teks putih pada hitam</item>
+        <item>Teks hijau pada hitam</item>
+        <item>Teks kuning pada hitam</item>
+        <item>Teks merah pada hitam</item>
+        <item>Teks biru pada hitam</item>
+    </string-array>
 </resources>

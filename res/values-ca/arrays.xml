@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Automàtic</item>
-    <item>Horitzontal</item>
-    <item>Vertical</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 pt</item>
-    <item>12 pt</item>
-    <item>14 pt</item>
-    <item>16 pt</item>
-    <item>20 pt</item>
-    <item>24 pt</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Text negre sobre blanc</item>
-    <item>Text blanc sobre negre</item>
-    <item>Text verd sobre negre</item>
-    <item>Text ambre sobre negre</item>
-    <item>Text vermell sobre negre</item>
-    <item>Text blau sobre negre</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Automàtic</item>
+        <item>Horitzontal</item>
+        <item>Vertical</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Text negre sobre blanc</item>
+        <item>Text blanc sobre negre</item>
+        <item>Text verd sobre negre</item>
+        <item>Text ambre sobre negre</item>
+        <item>Text vermell sobre negre</item>
+        <item>Text blau sobre negre</item>
+    </string-array>
 </resources>

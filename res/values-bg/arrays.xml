@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="screen_orientation_labels">
-    <item>Автоматичен</item>
-    <item>Пейзаж</item>
-    <item>Портрет</item>
-  </string-array>
-  <string-array name="font_size_labels">
-    <item>10 точков</item>
-    <item>12 точков</item>
-    <item>14 точков</item>
-    <item>16 точков</item>
-    <item>20 точков</item>
-    <item>24 точков</item>
-  </string-array>
-  <string-array name="text_colors_labels">
-    <item>Черен текст на бял фон</item>
-    <item>Бял текст на черен фон</item>
-    <item>Зелен текст на черен фон</item>
-    <item>Кехлибарен текст на черен фон</item>
-    <item>Червен текст на черен фон</item>
-    <item>Син текст на черен фон</item>
-  </string-array>
+    <string-array name="screen_orientation_labels">
+        <item>Автоматичен</item>
+        <item>Пейзаж</item>
+        <item>Портрет</item>
+    </string-array>
+    <string-array name="font_size_labels">
+        <item>10 точков</item>
+        <item>12 точков</item>
+        <item>14 точков</item>
+        <item>16 точков</item>
+        <item>20 точков</item>
+        <item>24 точков</item>
+    </string-array>
+    <string-array name="text_colors_labels">
+        <item>Черен текст на бял фон</item>
+        <item>Бял текст на черен фон</item>
+        <item>Зелен текст на черен фон</item>
+        <item>Кехлибарен текст на черен фон</item>
+        <item>Червен текст на черен фон</item>
+        <item>Син текст на черен фон</item>
+    </string-array>
 </resources>
