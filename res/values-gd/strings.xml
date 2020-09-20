@@ -24,4 +24,6 @@
     <string name="text_settings">Roghainnean an teacsa</string>
     <string name="font_size_title">Meud a’ chrutha-chlò</string>
     <string name="text_colors_title">Dathan an teacsa</string>
+    <string name="volumekey_title">Iuchraichean fuaime ’nan ion-chur</string>
+    <string name="volumekey_summary">Bidh putanan àirde na fuaime suas/sìos ’nan iuchraichean ion-chuir suas/sìos</string>
 </resources>
