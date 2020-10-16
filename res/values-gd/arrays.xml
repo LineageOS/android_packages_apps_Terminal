@@ -20,6 +20,14 @@
         <item>Dreach-tìre</item>
         <item>Portraid</item>
     </string-array>
+    <string-array name="font_size_labels">
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+    </string-array>
     <string-array name="text_colors_labels">
         <item>Teacsa dubh air geal</item>
         <item>Teacsa geal air dubh</item>
