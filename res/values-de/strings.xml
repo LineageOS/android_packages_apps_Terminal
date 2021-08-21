@@ -25,5 +25,5 @@
     <string name="font_size_title">Schriftgröße</string>
     <string name="text_colors_title">Textfarben</string>
     <string name="volumekey_title">Lautstärketasten als Eingabe</string>
-    <string name="volumekey_summary">Lautstärke Hoch/Runtertasten werden als aufwärts/abwärts Pfeiltasten verwendet</string>
+    <string name="volumekey_summary">Lautstärketasten Hoch/Runter werden als aufwärts/abwärts Pfeiltasten verwendet</string>
 </resources>
