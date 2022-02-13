@@ -15,15 +15,13 @@
 -->
 <resources>
     <string name="app_label">Terminal</string>
-    <string name="menu_new_tab">Neuer Tab</string>
-    <string name="menu_close_tab">Tab schließen</string>
-    <string name="menu_item_settings">Einstellungen</string>
-    <string name="screen_settings">Bildschirmeinstellungen</string>
+    <string name="menu_new_tab">Neien Tab</string>
+    <string name="menu_close_tab">Tab zoumaachen</string>
+    <string name="menu_item_settings">Astellungen</string>
+    <string name="screen_settings">Schiermastellungen</string>
     <string name="fullscreen_mode_title">Vollbildmodus</string>
-    <string name="screen_orientation_title">Bildschirmausrichtung</string>
-    <string name="text_settings">Texteinstellungen</string>
-    <string name="font_size_title">Schriftgröße</string>
-    <string name="text_colors_title">Textfarben</string>
-    <string name="volumekey_title">Lautstärketasten als Eingabe</string>
-    <string name="volumekey_summary">Lautstärketasten Hoch/Runter werden als aufwärts/abwärts Pfeiltasten verwendet</string>
+    <string name="screen_orientation_title">Schiermorientéierung</string>
+    <string name="text_settings">Textastellungen</string>
+    <string name="font_size_title">Schrëftgréisst</string>
+    <string name="text_colors_title">Textfaarf</string>
 </resources>

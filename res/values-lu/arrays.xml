@@ -16,9 +16,9 @@
 -->
 <resources>
     <string-array name="screen_orientation_labels">
-        <item>Automática</item>
-        <item>Paisaxe</item>
-        <item>Retratu</item>
+        <item>Automatesch</item>
+        <item>Breetformat</item>
+        <item>Héichformat</item>
     </string-array>
     <string-array name="font_size_labels">
         <item>10 pt</item>
@@ -29,11 +29,11 @@
         <item>24 pt</item>
     </string-array>
     <string-array name="text_colors_labels">
-        <item>Testu prietu sobre blancu</item>
-        <item>Testu blancu sobre fondu prietu</item>
-        <item>Testu verde sobre fondu prietu</item>
-        <item>Testu naranxa sobre fondu prietu</item>
-        <item>Testu bermeyu sobre fondu prietu</item>
-        <item>Testu azul sobre fondu prietu</item>
+        <item>Schwaarzen Text op Wäiss</item>
+        <item>Wäissen Text op Schwaarz</item>
+        <item>Gréngen Text op Schwaarz</item>
+        <item>Gielen Text op Schwaarz</item>
+        <item>Rouden Text op Schwaarz</item>
+        <item>Bloen Text op Schwaarz</item>
     </string-array>
 </resources>
