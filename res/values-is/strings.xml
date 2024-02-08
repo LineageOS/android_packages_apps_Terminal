@@ -14,5 +14,16 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_label">Skjáhermir (Terminal)</string>
+    <string name="menu_new_tab">Nýr flipi</string>
+    <string name="menu_close_tab">Loka flipa</string>
+    <string name="menu_item_settings">Stillingar</string>
+    <string name="screen_settings">Skjástillingar</string>
+    <string name="fullscreen_mode_title">Skjáfyllihamur</string>
+    <string name="screen_orientation_title">Stefna skjás</string>
+    <string name="text_settings">Stillingar texta</string>
+    <string name="font_size_title">Leturstærð</string>
+    <string name="text_colors_title">Litir á texta</string>
+    <string name="volumekey_title">Hljóðstyrkslyklar sem inntaksgjafar</string>
     <string name="volumekey_summary">Hljóðstyrkur upp/niður mun setja inn upp/niður lykla</string>
 </resources>

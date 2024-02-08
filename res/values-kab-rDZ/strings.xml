@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_label">Ixf</string>
+    <string name="menu_new_tab">Iccer amaynut</string>
+    <string name="menu_close_tab">Mdel iccer</string>
+    <string name="menu_item_settings">Iɣewwaṛen</string>
+    <string name="screen_settings">Iγewwaṛen n unagraw</string>
+    <string name="fullscreen_mode_title">Askar n ugdil ačuran</string>
+    <string name="screen_orientation_title">Tanila n ugdil</string>
+    <string name="text_settings">Iɣewwaṛen n uḍris</string>
+    <string name="font_size_title">Tiddi n tsefsit</string>
+    <string name="text_colors_title">Initen n uḍris</string>
+    <string name="volumekey_title">Tisura n ubleɣ am unekcum</string>
+    <string name="volumekey_summary">Tiqeffalin n ubleɣ Nnig/Ddaw ad skecment tiqeffalin Nng/Ddaw </string>
+</resources>

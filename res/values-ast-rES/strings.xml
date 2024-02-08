@@ -16,4 +16,8 @@
 <resources>
     <string name="app_label">Terminal</string>
     <string name="menu_new_tab">Llingüeta nueva</string>
+    <string name="menu_item_settings">Configuración</string>
+    <string name="screen_settings">Configuración de la pantalla</string>
+    <string name="screen_orientation_title">Orientación de la pantalla</string>
+    <string name="volumekey_summary">Les tecles del volume compórtense como si foren les tecles Arriba/Abaxo</string>
 </resources>

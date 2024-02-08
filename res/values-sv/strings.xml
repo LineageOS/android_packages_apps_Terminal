@@ -24,4 +24,5 @@
     <string name="text_settings">Textinställningar</string>
     <string name="font_size_title">Teckenstorlek</string>
     <string name="text_colors_title">Textfärger</string>
+    <string name="volumekey_title">Volymknappar som inmatning</string>
 </resources>

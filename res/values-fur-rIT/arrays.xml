@@ -16,24 +16,24 @@
 -->
 <resources>
     <string-array name="screen_orientation_labels">
-        <item>Аўтаматычна</item>
-        <item>Альбомная</item>
-        <item>Portrait</item>
+        <item>Automatic</item>
+        <item>Orizontâl</item>
+        <item>Verticâl</item>
     </string-array>
     <string-array name="font_size_labels">
-        <item>10 пунктаў</item>
-        <item>12 пунктаў</item>
-        <item>14 пунктаў</item>
-        <item>16 пунктаў</item>
-        <item>20 пунктаў</item>
-        <item>24 пункты</item>
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
     </string-array>
     <string-array name="text_colors_labels">
-        <item>Чорны тэкст на белым</item>
-        <item>Белы тэкст на чорным</item>
-        <item>Зялёны тэкст на чорным</item>
-        <item>Бурштынавы тэкст на чорным</item>
-        <item>Red text on black</item>
-        <item>Сіні тэкст на чорным</item>
+        <item>Test neri su blanc</item>
+        <item>Test blanc su neri</item>
+        <item>Test vert su neri</item>
+        <item>Test naranç su neri</item>
+        <item>Test ros su neri</item>
+        <item>Test blu su neri</item>
     </string-array>
 </resources>
